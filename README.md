@@ -13,33 +13,39 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
-
+->import libraries
+->train the dataset
 ### STEP 2:
-
+-> create the model
+-> train the model
 ### STEP 3:
-
-Write your own steps
+-> upload the hand written image and predict the output
 
 ## PROGRAM
 
-Include your code here
+
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+ ![Screenshot from 2022-09-22 18-54-09](https://user-images.githubusercontent.com/75235212/191758716-324b0d2d-22e5-4d53-9dcb-7952f8cd0342.png)
+
+![Screenshot from 2022-09-22 18-54-17](https://user-images.githubusercontent.com/75235212/191758729-691a55f2-7e19-474f-bae0-df36841f3607.png)
 
 ### Classification Report
 
-Include Classification Report here
+![Screenshot from 2022-09-22 18-53-43](https://user-images.githubusercontent.com/75235212/191758682-b032628a-7bc0-4f8a-8b59-9ba813f8c96c.png)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![Screenshot from 2022-09-22 18-53-54](https://user-images.githubusercontent.com/75235212/191758650-62066cc2-b8df-48e5-9ba4-7135d4a85804.png)
+
 
 ### New Sample Data Prediction
+![Screenshot from 2022-09-22 18-54-39](https://user-images.githubusercontent.com/75235212/191758526-e08e3d36-3e46-48fa-922a-389506e0fe4e.png)
 
-Include your sample input and output for your hand written images.
 
 ## RESULT
+The Experiment has been successfully completed
