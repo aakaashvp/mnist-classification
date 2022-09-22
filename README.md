@@ -22,6 +22,13 @@ Include the neural network model diagram.
 -> upload the hand written image and predict the output
 
 ## PROGRAM
+model = keras.Sequential()
+model.add(layers.Input(shape=(28,28,1)))
+model.add(layers.Conv2D(filters=32,kernel_size=(3,3),activation="relu"))
+model.add(layers.MaxPool2D(pool_size=(2,2)))
+model.add(layers.Flatten())
+model.add(layers.Dense(64,activation="relu"))
+model.add(layers.Dense(10,activation="softmax"))
 
 https://github.com/aakaashvp/mnist-classification/blob/7d32ba1c21a9a2a1f46cec4da1807d1a768f5400/Copy_of_Ex03_minist_classification.ipynb
 
