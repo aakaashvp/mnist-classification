@@ -23,7 +23,7 @@ Include the neural network model diagram.
 
 ## PROGRAM
 
-
+https://github.com/aakaashvp/mnist-classification/blob/7d32ba1c21a9a2a1f46cec4da1807d1a768f5400/Copy_of_Ex03_minist_classification.ipynb
 
 ## OUTPUT
 
